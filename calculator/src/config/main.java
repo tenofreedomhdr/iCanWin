@@ -17,7 +17,6 @@ public class main {
 		}
 		
 		System.out.println(dex);
-		System.out.println(dex);
 		
 
 	}

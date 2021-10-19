@@ -7,3 +7,8 @@ JUnitTesting/.project
 JUnitTesting/.settings/org.eclipse.jdt.core.prefs
 JUnitTesting/.settings/org.eclipse.m2e.core.prefs
 JUnitTesting/pom.xml
+.classpath
+.gitignore
+.project
+.settings/
+pom.xml
